@@ -1,0 +1,22 @@
+package enums;
+
+public enum FlowerName {
+	
+	GERANIOS,
+	GERBERA,
+	GLADIOLO,
+	HORTENSIA,
+	JACINTO,
+	JAZMÍN,
+	LAVANDA,
+	LIRIO,
+	MARGARITA,
+	NARCISO,	
+	NARDO,
+	PENSAMIENTO,
+	PETUNIA,
+	ROSA;
+	
+
+
+}
